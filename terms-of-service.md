@@ -127,8 +127,7 @@ You agree to submit to the personal jurisdiction of these courts for the purpose
 
 If you have questions about these Terms of Service, please contact us:
 
-- **Email:** legal@keepher.app
-- **Support:** support@keepher.app
+- **Email:** keepherapp@outlook.com
 
 We will respond to all inquiries within 48 hours.
 

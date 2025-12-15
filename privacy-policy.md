@@ -60,7 +60,7 @@ Under the General Data Protection Regulation (GDPR), you have the following righ
 - **Right to Object:** Opt-out of analytics tracking and marketing communications
 - **Right to Withdraw Consent:** Revoke consent for data processing at any time
 
-To exercise these rights, please contact us at **privacy@keepher.app**. We will respond to your request within 30 days.
+To exercise these rights, please contact us at **keepherapp@outlook.com**. We will respond to your request within 30 days.
 
 ## 6. Data Retention
 
@@ -75,7 +75,7 @@ You can delete your account at any time from the Profile settings in the app.
 
 ## 7. Children's Privacy
 
-KeepHer is intended for users aged 18 and older. We do not knowingly collect personal information from children under 18. If you believe we have collected information from a child under 18, please contact us immediately at **privacy@keepher.app** and we will promptly delete such information.
+KeepHer is intended for users aged 18 and older. We do not knowingly collect personal information from children under 18. If you believe we have collected information from a child under 18, please contact us immediately at **keepherapp@outlook.com** and we will promptly delete such information.
 
 ## 8. Changes to This Policy
 
@@ -91,8 +91,7 @@ Your continued use of KeepHer after changes to this policy constitutes acceptanc
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-- **Email:** privacy@keepher.app
-- **Support:** support@keepher.app
+- **Email:** keepherapp@outlook.com
 
 We aim to respond to all inquiries within 48 hours.
 
@@ -105,7 +104,7 @@ California residents have additional rights under the California Consumer Privac
 - **Right to Opt-Out:** Opt-out of the sale of personal information (note: we do not sell personal information)
 - **Right to Non-Discrimination:** Not receive discriminatory treatment for exercising your privacy rights
 
-To exercise your CCPA rights, contact us at **privacy@keepher.app**. We will verify your identity before processing your request.
+To exercise your CCPA rights, contact us at **keepherapp@outlook.com**. We will verify your identity before processing your request.
 
 ---
 

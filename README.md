@@ -40,9 +40,7 @@ KeepHer is a relationship management app designed for men to strengthen their re
 
 For questions about these legal documents:
 
-- **Privacy inquiries:** privacy@keepher.app
-- **Legal inquiries:** legal@keepher.app
-- **General support:** support@keepher.app
+- **Email:** keepherapp@outlook.com
 
 ---
 
