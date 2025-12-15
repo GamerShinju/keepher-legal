@@ -8,22 +8,22 @@ Use these public URLs when submitting KeepHer to the Apple App Store:
 
 ### Privacy Policy
 ```
-https://github.com/GamerShinju/keepher-legal/blob/main/privacy-policy.md
+https://github.com/GamerShinju/keepher-legal/blob/master/privacy-policy.md
 ```
 
 **Raw URL (for direct viewing):**
 ```
-https://raw.githubusercontent.com/GamerShinju/keepher-legal/main/privacy-policy.md
+https://raw.githubusercontent.com/GamerShinju/keepher-legal/master/privacy-policy.md
 ```
 
 ### Terms of Service
 ```
-https://github.com/GamerShinju/keepher-legal/blob/main/terms-of-service.md
+https://github.com/GamerShinju/keepher-legal/blob/master/terms-of-service.md
 ```
 
 **Raw URL (for direct viewing):**
 ```
-https://raw.githubusercontent.com/GamerShinju/keepher-legal/main/terms-of-service.md
+https://raw.githubusercontent.com/GamerShinju/keepher-legal/master/terms-of-service.md
 ```
 
 ## About KeepHer
